@@ -29,7 +29,7 @@ a, li {
 	display: inline-block;
 	whitespace: normal;
 	width:40vw;
-	height:270px;
+	height:350px;
 	color: white;
 	text-align: justify;
 	border: 2px solid white;
@@ -123,6 +123,30 @@ h2{
 	display: inline-block;
 	width: 800px;
 	vertical-align:top;
+}
+
+#plus, #minus, #multiply, #divide, #plusfive, #minusfive, #zero {
+	display: inline-block;
+	whitespace: normal;
+	text-align: justify;
+	margin: 5px;
+	font-size: 2vw;
+}
+
+#total {
+	margin: 5px;
+	font-size: 3vw;
+	border: 2px, solid, white;
+	color: black;
+	background-color: white;
+	width: 29vw;
+	whitespace: normal;
+	text-align: right;
+
+}
+
+.question {
+	display: block;
 }
 
 /*img{
