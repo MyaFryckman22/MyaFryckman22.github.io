@@ -150,6 +150,19 @@ h2{
 	display: block;
 }
 
+#buttons, #image {
+	display: inline-block;
+}
+
+.button{
+	display: block;
+	vertical-align: top;
+}
+
+#image{
+	height: 20vw;
+}
+
 /*img{
 	border: 3px solid white;
 	padding: 10px;
