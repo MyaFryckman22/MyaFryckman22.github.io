@@ -1,0 +1,82 @@
+.dropdowns {
+	display: inline-block;
+	width: 100vw;
+	height:6vw;
+	margin:0vw;
+	margin-top:0vw;
+	vertical-align: bottom;
+	border: 2px solid #001489;
+	background-color: #001489;
+	color: white;
+	font-size: 1.2vw;
+}
+
+p {
+	display: inline-block;
+	padding: 10px;
+	font-family: Arial, sans-serif;
+}
+
+image {
+	margin: 2vw;
+	padding:2vw;
+}
+
+button{
+	border: 2px solid #001489;
+	background-color: #001489;
+	color: white;
+	font-size: 1.3vw;
+	font-family: Arial, sans-serif;
+}
+
+#search{
+	background-color: #FFD400;
+	border: 2px solid #FFD400;
+}
+
+.secondrow1 {
+	display: inline-block;
+	vertical-align: top;
+	padding:3vw;
+}
+.secondrow2 {
+	display: inline-block;
+	vertical-align: top;
+	width: 30vw;
+	height:8vw;
+	border: 2px solid white;
+	padding: 3vw;
+	align-content: right;
+	margin-left: 200px;
+	margin-top:10px;
+}
+
+.imgselect {
+	background-color: #E9E9E9;
+	height:17vw;
+	vertical-align: center;
+	align-content: center;
+}
+
+.img {
+	height:9vw;
+	width: 9vw;
+	text-align: center;
+}
+.explain {
+	display: inline-block;
+	height:4vw;
+	background-color: #E9E9E9;
+	text-align: top;
+}
+
+#activity, #event, #year, #PV, #menu, #jobs, #sw, #email {
+	height:17vw;
+	width: 10vw;
+	display: inline-block;
+	overflow: wrap;
+	margins: 0px;
+	vertical-align: top;
+	border-right: 2px solid black;
+}
