@@ -1,0 +1,209 @@
+.levelone{
+	background-color: #F9F9F9;
+	display: inline-block;
+	width: 85vw;
+	vertical-align: top;
+}
+.firstlayer {
+	margin-left: 50vw;
+	display: inline-block;
+	width: 85vw;
+	font-size: 1vw;
+}
+.secondlayer {
+	display: inline-block;
+}
+.bar{
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: top;
+	horizontal-align: top;
+}
+
+#talk {
+	margin-right: 40vw;
+}
+#search {
+	horizontal-align: middle;
+}
+.leftcolumn {
+	width: 10vw;
+	display: inline-block;
+	background-color: #F9F9F9;
+	height:655vh;
+}
+
+.main {
+	width: 85vw;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#from{
+	display: inline-block;
+	font-size: 1vw;
+	margin-top: -2vw;
+}
+#cords {
+	display: inline-block;
+	margin-left: 50vw;
+	color: #3A37D1;
+	font-size: 1vw;
+	margin-top: -2vw;
+}
+
+.tabletwo {
+	display: inline-block;
+	width:22vw;
+	text-align: center;
+	border: 2px solid black;
+	background-color: #F9F9F9;
+	vertical-align: top;
+
+}
+
+.leftsection {
+	display: inline-block;
+	width:60vw;
+}
+
+.tableone {
+	width:15vw;
+	border: 2px solid black;
+	background-color: #F9F9F9;
+	display: inline-block;
+}
+
+.bodyone, .bodytwo, .bodythree, .bodyfour, .bodyfive {
+	display: inline-block;
+}
+
+#contents {
+	text-align: center;
+	margin-bottom: -0.5vw;
+}
+
+#title {
+	margin-top: 1vw;
+	margin-bottom: 0vw;
+}
+#celltwo {
+	margin-top: 0vw;
+	margin-bottom: 0vw;
+	background-color:#8BB1DA
+}
+
+#city {
+	margin-top: 0vw;
+	margin-bottom: 0vw;
+	color:#284ACC
+}
+
+.edit, .sectionheader {
+	display: inline-block;
+}
+
+.left {
+	width: 7vw;
+	display:inline-block;
+	text-align: left;
+	margin-top: -1vw;
+	margin-bottom: -1vw;
+}
+.right {
+	width: 13vw;
+	display:inline-block;
+	text-align: left;
+	margin-top: -1vw;
+	margin-bottom: -1vw;
+}
+
+.tablematerial {
+	margin-top: .5vw;
+	margin-bottom: 0vw;
+}
+
+.tablethree {
+	display:inline-block;
+	border: 2px solid black;
+	background-color: #F9F9F9;
+	vertical-align: top;
+}
+
+.farleft{
+	display:inline-block;
+	margin-top: .5vw;
+	margin-bottom: 0vw;
+}
+
+.farright{
+	display:inline-block;
+	margin-top: .5vw;
+	margin-bottom: 0vw;
+}
+
+.center {
+	display:inline-block;
+	margin-top: 0vw;
+	margin-bottom: 0vw;
+}
+
+#population {
+	margin-top: .5vw;
+	margin-bottom: -1vw;
+	background-color: #CABDF1;
+}
+
+.move {
+	display: inline-block;
+	width: 70vw;
+}
+
+.smalltitle{
+	display:inline-block;
+}
+
+#election {
+	background-color: #CABDF1;
+}
+
+.refleft, .refright {
+	display:inline-block;
+	width: 40vw;
+	vertical-align: top;
+	margin-top: -1vw;
+	margin-bottom: -1vw;
+}
+
+.tablefour {
+	display:inline-block;
+	border: 2px solid black;
+	vertical-align: top;
+	width:85vw;
+}
+
+.purple {
+	text-align: center;
+	border-bottom:1px solid black;
+	margin-top: 0vw;
+	margin-bottom: 0vw;
+	background-color: #CABDF1;
+}
+
+.bottom {
+	background-color: #F9F9F9;
+	width: 87vw;
+	left-margin: 10vw;
+	vertical-align:bottom;
+}
+.invisible {
+	color: white;
+}
+.tablefive {
+	background-color: #F9F9F9;
+	color:#03098F;
+	border: 2px solid black;
+	margin-top: -1vw;
+	margin-bottom: -1vw;
+}
