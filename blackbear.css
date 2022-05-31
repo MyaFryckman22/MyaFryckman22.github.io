@@ -39,6 +39,10 @@ body {
 	text-align: center;
 }
 
+.link {
+	color: #ced9d1;
+}
+
 #bearfour {
 	margin-left: -.5vw;
 }
@@ -49,6 +53,7 @@ body {
 	margin-left: 4vw;
 	margin-right: 4vw;
 	color: #ced9d1;
+	margin-top: 1.5vw;
 	
 }
 
@@ -67,6 +72,17 @@ body {
 	font-size: 1.5vw;
 	display:inline-block;
 }
+
+.explaintwo {
+	width:40vw;
+	padding-left: 22vw;
+	padding-top: 2vw;
+	color: #ced9d1;
+	font-size: 1.5vw;
+	display:inline-block;
+	vertical-align: top;
+}
+
 
 .decor {
 	font-size: 15vw;
@@ -102,12 +118,30 @@ body {
 	margin-top: .5vw;
 }
 
+#bearfifteen {
+	display:inline-block;
+	align-content: center;
+	text-align: center;
+	vertical-align: center;
+	border: solid 4px #232b25;
+}
+
 .cut {
 	display: inline-block;
 	align-content: center;
 	text-align: center;
 	vertical-align: center;
 	width: 19vw;
+}
+
+.cuttwo {
+	display: inline-block;
+	align-content: center;
+	text-align: center;
+	vertical-align: center;
+	width: 19vw;
+	margin-top: 3.8vw;
+	margin-left: 3vw;
 }
 
 .text {
@@ -210,4 +244,51 @@ body {
 	display: inline-block;
 	border: solid 4px #232b25;
 	text-align: center;
+}
+
+h3 {
+	color: #ced9d1;
+	margin-left: 1vw;
+	padding-top:1vw;
+	font-size: 1.5vw;
+	padding-bottom: -2vw;
+}
+
+select {
+	margin-left: 2vw;
+	font-size: 1.2vw;
+	color: #ced9d1;
+	background-color: #232b25;
+}
+
+button {
+	margin-left: 2vw;
+	font-size: 1.5vw;
+	margin-top: 1vw;
+	color: #ced9d1;
+	background-color: #26381e;
+}
+
+#score {
+	margin-left: 3vw;
+	color: #ced9d1;
+	font-size: 2vw;
+}
+
+.quiz {
+	display: inline-block;
+}
+
+.borderimagefive {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 3vw;
+	margin-left: 6vw;
+	width: 40vw;
+}
+
+#bearsixteen, #beareighteen, #bearnineteen {
+	margin-top: 1vw;
+	margin-bottom: 1vw;
+	border: solid 5px #232b25;
 }
